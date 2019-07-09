@@ -1,0 +1,15 @@
+{
+  "name": "pwebr",
+  "version": "1.0.0",
+  "description": "Portfolio- site",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css --recursive"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5",
+    "node-sass": "^4.11.0"
+  }
+}
